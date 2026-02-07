@@ -12,12 +12,10 @@
 
 Link: https://github.com/TranNguyenRepo/Showcasing-SQL-Proficiency-Testimony
 
-## Healthcare Analytics — Billing & HR Dashboards
+## Healthcare Analytics — HR Dashboard
 
-- Worked with Data Engineers and Scientists to implement a SQL-based billing automation model, achieving 60% error reduction and 99% elimination of manual processing, saving ~$2M annually.
+- Collaborated with HR leadership to define requirements and build a Turnover Dashboard showing turnover rate, tenure, and termination trends.
 
-- Designed and automated batch PDF invoice generation using Qlik Automation and SharePoint, reducing processing time from hours to minutes.
+- Applied semantic analysis using Snowflake Cortex to extract insights from exit reasons.
 
-- Built executive-level KPI dashboards tracking operational efficiency, financial performance, and end-of-life patient metrics.
-
-- Delivered a Turnover Analytics Dashboard for HR, analyzing tenure, attrition drivers, and exit reasons using text and semantic analysis, significantly reducing manual reporting workload.
+- Used complex SQL to clean, join, and transform raw HR data into usable, analysis-ready datasets.
